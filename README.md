@@ -14,8 +14,7 @@ This Python project allows users to input their daily exercise activities in nat
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/<your-username>/<your-repo-name>.git
-    cd <your-repo-name>
+    git clone https://github.com/Junayed-Bin-Karim/fitness-tracker.git
     ```
 
 2. **Create a `.env` file** with your credentials:
