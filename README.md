@@ -60,6 +60,18 @@ The table contains: Date, Time, Excercise Type, Duration, Calories Burned fields
 
 ![alt text](https://github.com/shubham101096/fitness-tracker/blob/master/fitness-tracker-screenshot.png?raw=true)
 
-Author
-Md. Junayed Bin Karim
+---
+
+##  Author
+
+**Md. Junayed Bin Karim**  
+ CSE Student at Daffodil International University  
+ [GitHub](https://github.com/Junayed-Bin-Karim)  
+ [LinkedIn](https://www.linkedin.com/in/junayed-bin-karim-47b755270/)  
+ karim22205101667@diu.edu.bd  
+
+_"Be Yourself, Stay Strong, Stay Humble"_ 
+
+---
+
 
